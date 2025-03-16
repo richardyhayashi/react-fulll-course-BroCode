@@ -1,6 +1,9 @@
+import MyCompoenent from "./components/MyCompoenent";
+
 function App() {
   return (
     <>
+      <MyCompoenent />
     </>
   );
 }
